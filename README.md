@@ -1,7 +1,7 @@
 ## 👨‍💻 Paulo Victor
 **Desenvolvedor Fullstack** | **React** | **Node.js**
 
-> [cite_start]Desenvolvedor Fullstack com formação em Engenharia de Software [cite: 13][cite_start], focado em projetos práticos e adaptação rápida a tecnologias emergentes[cite: 13, 15]. [cite_start]Experiência em ambientes ágeis, priorizando código eficiente e de fácil manutenção[cite: 16, 17].
+> Desenvolvedor Fullstack com formação em Engenharia de Software, focado em projetos práticos e adaptação rápida a tecnologias emergentes. Experiência em ambientes ágeis, priorizando código eficiente e de fácil manutenção.
 
 ### 🤖 Stack Principal
 
@@ -17,15 +17,40 @@
 
 <br clear="left">
 
-### 📊 Estatísticas do GitHub
-<div height="200">
-    <img     
-        align 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=garchel&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-</div>
+### 🚀 Projetos e Experiências em Destaque
+
+#### 💼 Estágios
+
+* **Desenvolvedor Fullstack | Alvenatech**
+    * Desenvolvimento de uma plataforma para monitoramento do progresso de obras.
+    * Transformação do fluxo de registro de tarefas, **reduzindo o tempo de repasse para a central de 30 dias para tempo real**.
+    * Implementação de UI responsiva em React + Tailwind, garantindo fluxo fluido de interação entre equipes de campo e central.
+    * **Stack:** Typescript, React, Tailwind CSS, Supabase, PostgreSQL, FeathersJs, Knex.
+
+* **Estagiário Fullstack | Instituto APIS**
+    * Criação de página de chat para interação de usuários com um Agente IA/MCP, capaz de buscar informações no banco de dados e fornecer respostas em tempo real.
+    * Desenvolvimento de aplicação de análise da adesão ao mercado de trabalho de alunos e ex-alunos.
+    * Desenvolvimento de dashboard interativo para visualização e controle de operações de scraping.
+
+#### 🛠️ Projetos Pessoais
+
+* ⭐ **Anki-Importer**
+    * **Link:** [https://github.com/garchel/Anki-Importer](https://github.com/garchel/Anki-Importer)
+    * *Adicione aqui uma breve descrição do objetivo da ferramenta, o problema que ela resolve e a stack utilizada.*
+
+* **Gear Tracker - Plataforma de Monitoramento de Equipamentos Agrícolas**
+    * Dashboard em tempo real com visualização de equipamentos no mapa utilizando Leaflet.
+    * Gerenciamento de estado com Context API e hooks personalizados.
+    * Aplicação construída seguindo boas práticas de A11Y (navegação por teclado, ARIA, leitores de tela).
+    * **Stack:** React, TypeScript, Tailwind CSS, Context API, Leaflet.
+
+### 🛠️ Habilidades Técnicas
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 📞 Contato
 <a href = "mailto:paulovictor.co97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
